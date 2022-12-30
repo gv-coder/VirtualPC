@@ -1,0 +1,2 @@
+class IncompatiblePlatformError(BaseException):
+    pass
